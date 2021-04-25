@@ -39,8 +39,7 @@ In the the footer section, I am presented  icon links to LinkedIn, Twiter, faceb
 
 
 ## Link
-* GitHub Link: https://github.com/shamimimtiaz/my-react-portfolio.git
-* Deployment Link: https://shamimimtiaz.github.io/my-react-portfolio/
-
+* GitHub Link: https://github.com/shamimimtiaz/personal-react-portfolio.git
+* Deployment Link: https://shamimimtiaz.github.io/personal-react-portfolio/
 ## Questions
 If you have questions, email me at km_si@ymail.com or reach out on <a href="https://github.com/shamimimtiaz" target="_blank">Shamim's Github</a>

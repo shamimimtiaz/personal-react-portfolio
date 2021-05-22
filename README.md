@@ -16,7 +16,7 @@ In this project I built a simple SPA Portfolio template for developer/designers 
 * Node
 
 ## Installation and Setup
- * Clone this repo in your terminal with the command git clone https://github.com/shamimimtiaz/my-react-portfolio.git
+ * Clone this repo in your terminal with the command git clone https://github.com/shamimimtiaz/personal-react-portfolio.git
  * change directory into cd react-portfolio
  * Run npm install in your terminal
  * Run npm start and the app will run locally on port: 3000

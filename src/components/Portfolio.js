@@ -14,6 +14,7 @@ import project1 from "../images/html-css-javascript.JPG";
 import project2 from "../images/html-css-javascript-lg.PNG";
 import project3 from "../images/javascript-fullstack.PNG";
 import project4 from "../images/mern-stack.PNG";
+import project5 from "../images/Snap.JPG"
 
 const useStyles = makeStyles((theme) => ({
   mainContainer: {
@@ -62,6 +63,15 @@ const projects = [
     iste alias sunt veritatis nisi dolores!`,
     image: project4,
     link: "https://envoy-guide.herokuapp.com/"
+  },
+  {
+    name: "woof",
+    description: `Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis\
+    consequatur magni quod nesciunt necessitatibus molestiae non\
+    eligendi, magnam est aliquam recusandae? Magnam soluta minus\
+    iste alias sunt veritatis nisi dolores!`,
+    image: project5,
+    link: "https://woof-app-2021.herokuapp.com"
   }
   
   

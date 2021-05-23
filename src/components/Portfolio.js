@@ -71,7 +71,7 @@ const projects = [
     eligendi, magnam est aliquam recusandae? Magnam soluta minus\
     iste alias sunt veritatis nisi dolores!`,
     image: project5,
-    link: "https://woof-app-2021.herokuapp.com"
+    link: "https://woof-2021.herokuapp.com/"
   }
   
   

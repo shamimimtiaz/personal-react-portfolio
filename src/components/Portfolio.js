@@ -14,7 +14,7 @@ import project1 from "../images/html-css-javascript.JPG";
 import project2 from "../images/html-css-javascript-lg.PNG";
 import project3 from "../images/javascript-fullstack.PNG";
 import project4 from "../images/mern-stack.PNG";
-import project5 from "../images/woof.JPG"
+import project5 from "../images/woof.JPG";
 
 const useStyles = makeStyles((theme) => ({
   mainContainer: {
@@ -86,6 +86,7 @@ const Portfolio = () => {
         {projects.map((project, i) => (
           <Grid item xs={12} sm={8} md={4} key={i}>
             <Card className={classes.cardContainer}>
+              {console.log(project.image)}
               <CardActionArea>
                 <CardMedia
                   component="img"
